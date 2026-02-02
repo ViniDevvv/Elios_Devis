@@ -1,0 +1,25 @@
+DEVIS N° {quote_number}
+Date d’émission: {issue_date}
+Date d’échéance: {due_date}
+
+SOCIÉTÉ
+{company_name}
+{company_address}
+Email: {company_email}
+Téléphone: {company_phone}
+
+CLIENT
+{client_name}
+{client_address}
+Email: {client_email}
+Téléphone: {client_phone}
+
+DÉTAILS
+{items_block}
+
+Sous-total: {subtotal} €
+TVA ({tax_rate_percent}%): {tax_amount} €
+Total TTC: {total} €
+
+Notes
+{notes}

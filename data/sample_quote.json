@@ -1,0 +1,30 @@
+{
+  "number": "DV-2026-0001",
+  "issue_date": "2026-02-02",
+  "due_date": "2026-02-16",
+  "company": {
+    "name": "ACME Studio",
+    "address": "12 rue des Artisans, 75000 Paris",
+    "email": "contact@acme-studio.fr",
+    "phone": "+33 1 23 45 67 89",
+    "website": "https://elios.example",
+    "siret": "123 456 789 00012",
+    "vat_number": "FR12 345678901",
+    "iban": "FR76 3000 6000 0112 3456 7890 189",
+    "bic": "AGRIFRPP"
+  },
+  "client": {
+    "name": "Client Exemple",
+    "address": "5 avenue des Tests, 69000 Lyon",
+    "email": "client@example.com",
+    "phone": "+33 4 56 78 90 12"
+  },
+  "items": [
+    {"description": "Conception UI", "quantity": 2, "unit_price": 450},
+    {"description": "Développement API", "quantity": 3, "unit_price": 600}
+  ],
+  "tax_rate": 0.2,
+  "notes": "Merci pour votre confiance.",
+  "status": "En attente",
+  "payment_terms": "Paiement à 30 jours. Pénalités légales en cas de retard."
+}
